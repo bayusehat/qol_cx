@@ -1,0 +1,7 @@
+[18-Jun-2021 15:33:23 Asia/Jakarta] PHP Notice:  Undefined index: uname in /home/ccaretre/public_html/qol/structure/head.php on line 14
+[18-Jun-2021 15:33:23 Asia/Jakarta] PHP Notice:  Undefined index: priv in /home/ccaretre/public_html/qol/structure/head.php on line 15
+[18-Jun-2021 15:33:23 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/ccaretre/public_html/qol/structure/head.php on line 16
+[18-Jun-2021 15:33:23 Asia/Jakarta] PHP Notice:  Undefined index: priv in /home/ccaretre/public_html/qol/index.php on line 9
+[18-Jun-2021 15:33:23 Asia/Jakarta] PHP Notice:  Undefined index: priv in /home/ccaretre/public_html/qol/index.php on line 9
+[18-Jun-2021 15:33:23 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/ccaretre/public_html/qol/structure/sidebar-menu.php on line 12
+[18-Jun-2021 15:33:23 Asia/Jakarta] PHP Notice:  Undefined index: uname in /home/ccaretre/public_html/qol/structure/top-nav.php on line 11
